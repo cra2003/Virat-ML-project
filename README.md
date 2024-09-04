@@ -4,7 +4,7 @@ Datasets from 2008 to 2023 web scrapped. Preprocessing was done. Datasets collec
 One hot encoding was done to all string type columns. Multiple Machine Learning Models such as Decision Trees , RandomForest ,
 Neural Networks were used on the dataset. 
 
-The best accuracy of the test data being - 62%
+The best accuracy of the test data being - 76%
 
 
 https://karthick.ngaws.xyz/
